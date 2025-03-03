@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Welcome to my 1st CICD Application. This is the first change in the code.😊😍
         </p>
         <a
           className="App-link"
